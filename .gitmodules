@@ -1,0 +1,3 @@
+[submodule "ci-cd-dashboard/java_project"]
+	path = ci-cd-dashboard/java_project
+	url = https://github.com/jyot436/XNL-21BCE9552-SDE-8.git
